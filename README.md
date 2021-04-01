@@ -1,7 +1,7 @@
 # helheim_diurnal_vels
 Figure data from Stevens et al. (2021) Helheim Glacier diurnal velocity fluctuations driven by surface melt forcing.
 
-Figure data stored in .mat files and arranged by figure number and panel. 
+Figure data stored in .mat files and organized by figure number and panel. 
 
 Citations:
 
